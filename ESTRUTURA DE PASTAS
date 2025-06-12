@@ -1,0 +1,23 @@
+/restaurante-koreano/
+│
+├── public/
+│   └── assets/ (logo, imagens dos pratos, etc.)
+│
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   │   ├── Home/
+│   │   ├── Drinks/
+│   │   ├── Foods/
+│   │   ├── Desserts/
+│   │   ├── Cadastro/
+│   │   ├── Pedidos/
+│   │   ├── Avaliacoes/
+│   ├── styles/
+│   │   └── global.css
+│   ├── App.tsx
+│   └── main.tsx
+│
+├── package.json
+└── tsconfig.json
