@@ -1,0 +1,9 @@
+📦 restaurante-coreano
+ ┣ 📂src
+ ┃ ┣ 📂pages
+ ┃ ┣ 📂components
+ ┃ ┣ 📂assets
+ ┃ ┗ App.tsx
+ ┣ index.html
+ ┣ tsconfig.json
+ ┗ vite.config.ts
